@@ -56,6 +56,7 @@ public class Main {
 		*/
 
         //Задание 6
+        /*
         int[] array;
         array = new int[5];
         for (int i = 0; i < array.length; i++) {
@@ -72,6 +73,7 @@ public class Main {
         for (int i = 0; i < array.length; i++) {
             System.out.println(array[i] + " ");
         }
+         */
     }
 
 }
